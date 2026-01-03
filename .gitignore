@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+chess_env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data
+data/raw/
+data/processed/*.png
+!data/processed/.gitkeep
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# User Specific / Documentation Notes (Local only)
+dashboard things.txt
+question and answers.txt
+the analysischec.txt
+implementation_plan.md.resolved
+development.md
+
+# Dev Scripts
+verify_logic.py
+robust_cleanup.py
+debug_extraction.py
+src/chess_analysis.py

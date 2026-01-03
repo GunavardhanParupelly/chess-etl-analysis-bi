@@ -1,0 +1,6 @@
+requests
+pandas
+python-chess
+matplotlib
+streamlit
+plotly
