@@ -5,7 +5,7 @@ https://analytics.zoho.in/open-view/497352000000045923
 
 # Chess ETL Project
 
-A simple pipeline to fetch and analyze Chess.com games.
+A ETL pipeline to fetch and analyze Chess.com games.
 
 ## 🚀 Quick Start
 
